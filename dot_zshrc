@@ -1,0 +1,6 @@
+exec fish
+# autoload -Uz compinit promptinit
+# compinit -u
+# promptinit
+# prompt walters
+# test
